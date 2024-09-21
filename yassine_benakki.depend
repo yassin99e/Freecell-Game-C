@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1706630137 source:c:\users\yassi\onedrive\desktop\project_freecell\yassine_benakki\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
+1706545271 source:c:\users\yassi\onedrive\desktop\project_freecell\yassine_benakki\main.c
+	"header.h"
+
+1706533777 c:\users\yassi\onedrive\desktop\project_freecell\yassine_benakki\header.h
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+
+1707004643 source:c:\users\yassi\onedrive\desktop\yassine ben akki\code source\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
+1717332482 source:c:\users\yassi\onedrive\desktop\yassine ben akki\code source\main.c
+	"header.h"
+
+1706533777 c:\users\yassi\onedrive\desktop\yassine ben akki\code source\header.h
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+
